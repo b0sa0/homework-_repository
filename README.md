@@ -1,4 +1,3 @@
-# Python Quiz Program
 A simple Python program that validates student ID and answers.
 ## Code
 ```python
@@ -17,7 +16,5 @@ def quiz():
 quiz()
 ```
 ## Team Members
-- @TalaFahad1
-- @Aljowharah67
-- @Janoo15
-- @LeenAlhossan
+- @TalaFahad1  - @Aljowharah67
+- @Janoo15   - @LeenAlhossan
